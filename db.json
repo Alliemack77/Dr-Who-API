@@ -1,0 +1,114 @@
+{
+    "doctors": [
+        {
+            "id": "ninth", 
+            "actor": "Christopher Eccleston", 
+            "series": ["Series 1 (2005)"],
+            "tenure": "March 26 - June 18, 2005, 2020", 
+            "companions": ["Rose Tyler", "Jack Harkness" ]
+        }, 
+        {
+            "id": "tenth", 
+            "actor": "David Tennant", 
+            "series": ["Series 2 (2006)", "Series 3 (2007)", "Series 4 (2008)", "Specials (2008 - 2010)"],
+            "tenure": "December 25, 2005 - January 1, 2010", 
+            "companions": ["Rose Tyler", "Mickey Smith", "Martha Jones", "Donna Noble", "Jack Harkness" ]
+        }, 
+        {
+            "id": "eleventh", 
+            "actor": "Matt Smith", 
+            "series": ["Series 5 (2010)", "Series 6 (2011)", "Series 7 (2012-13)", "Specials (2013)"],
+            "tenure": "3 April 2010 - 25 December 2013", 
+            "companions": ["Amy Pond", "Rory Williams", "River Song", "Clara Oswald" ]
+        }, 
+        {
+            "id": "twelfth", 
+            "actor": "Peter Capaldi", 
+            "series": ["Series 8 (2014)", "Series 9 (2015)", "Series 10 (2017)"],
+            "tenure": "23 August 2014 - 25 December 2017", 
+            "companions": ["Clara Oswald", "River Song", "Nardole", "Bill Potts"]
+        },
+        {
+            "id": "thirteenth", 
+            "actor": "Jodi Whittaker", 
+            "series": ["Series 11 (2018)", "Series 12 (2020)", "Series 13 (2022)", "Specials (2022)"],
+            "tenure": "December 25, 2017 - present", 
+            "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan", "Jack Harkness", "Dan Lewis"]
+        }
+    ],
+    "companions": [
+        {
+            "id": "1",
+            "name": "Rose Tyler", 
+            "actor": "Billie Piper", 
+            "firstAppearance": " \"Rose\" (2005)",
+            "lastAppearance": " \"The End of Time\" (2010)", 
+            "affiliation": ["Ninth", "Tenth" ],
+            "homeEra": ["Early 21st century"]
+        },
+        {
+            "id": "2", 
+            "name": "Mickey Smith",
+            "actor": "Noel Clarke", 
+            "firstAppearance": " \"Rose\" (2005)",
+            "lastAppearance": " \"The End of Time\" (2010)", 
+            "affiliation": ["Ninth", "Tenth" ],
+            "homeEra": ["Early 21st century"]
+        },
+        {
+            "id": "3", 
+            "name": "Martha Jones",
+            "actor": "Freema Agyeman", 
+            "firstAppearance": " \"Smith and Jones\" (2007)",
+            "lastAppearance": " \"The End of Time\" (2010)", 
+            "affiliation": ["Tenth", "UNIT", "Torchwood" ],
+            "homeEra": ["Early 21st century"]
+        },
+        {
+            "id": "4", 
+            "name": "Donna Noble",
+            "actor": "Catherine Tate", 
+            "firstAppearance": " \"Doomsday\" (2006)",
+            "lastAppearance": " \"The End of Time\" (2010)", 
+            "affiliation": ["Tenth"],
+            "homeEra": ["Early 21st century"]
+        },
+        {
+            "id": "5", 
+            "name": "Captain Jack Harkness",
+            "actor": "John Barrowman", 
+            "firstAppearance": " \"The Empty Child\" (2005)",
+            "lastAppearance": " \"Revolution of the Daleks\" (2021)", 
+            "affiliation": ["Ninth", "Tenth", "Thirteenth", "Time Agency", "Torchwood Institute"],
+            "homeEra": ["51st century (original)", "21st century (current)"]
+        },
+        {
+            "id": "6", 
+            "name": "Amy Pond",
+            "actor": "Karen Gillan", 
+            "firstAppearance": " \"The Eleventh Hour\" (2010)",
+            "lastAppearance": " \"The Time of the Doctor\" (2013)", 
+            "affiliation": ["Eleventh"],
+            "homeEra": ["21st century"]
+        },
+        {
+            "id": "7", 
+            "name": "Rory Williams",
+            "actor": "Arthur Darvill", 
+            "firstAppearance": " \"The Eleventh Hour\" (2010)",
+            "lastAppearance": " \"The Angels Take Manhattan\" (2012)", 
+            "affiliation": ["Eleventh"],
+            "homeEra": ["21st century"]
+        },
+        {
+            "id": "8", 
+            "name": "River Song",
+            "actor": "Alex Kingston", 
+            "firstAppearance": " \"Silence in the Library\" (2008)",
+            "lastAppearance": " \"The Husbands of River Song\" (2015)", 
+            "affiliation": ["Tenth", "Eleventh", "Twelfth"],
+            "homeEra": ["21st century"]
+        }
+
+    ]
+}
