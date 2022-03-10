@@ -13,6 +13,14 @@ I created this project with help from Ania Kubow's tutorial *[Make your own mock
 
 Get all Doctors:
 
+`fetch('https://the-dr-who-api.herokuapp.com/doctors')
+  .then(response => response.json())
+  .then(data => console.log(data));`
 
+Get all companions: 
+
+`fetch('https://the-dr-who-api.herokuapp.com/companions')
+  .then(response => response.json())
+  .then(data => console.log(data));`
 
 
