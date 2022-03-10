@@ -108,6 +108,15 @@
             "lastAppearance": " \"The Husbands of River Song\" (2015)", 
             "affiliation": ["Tenth", "Eleventh", "Twelfth"],
             "homeEra": ["21st century"]
+        },
+        {
+            "id": "9", 
+            "name": "Clara Oswald",
+            "actor": "Jenna Coleman", 
+            "firstAppearance": " \"Asylum of the Daleks\" (2012)",
+            "lastAppearance": " \"Twice Upon A Time\" (2017)", 
+            "affiliation": ["Eleventh", "Twelfth"],
+            "homeEra": ["21st century"]
         }
 
     ]
