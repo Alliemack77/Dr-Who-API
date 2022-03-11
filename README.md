@@ -17,8 +17,6 @@ Get all Doctors:
 
 Get all companions: 
 
-`fetch('https://the-dr-who-api.herokuapp.com/companions')`
-  `.then(response => response.json())`
-  `.then(data => console.log(data));`
+`fetch('https://the-dr-who-api.herokuapp.com/companions').then(response => response.json()).then(data => console.log(data));`
 
 
