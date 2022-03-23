@@ -44,7 +44,8 @@
             "firstAppearance": " \"Rose\" (2005)",
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Ninth", "Tenth" ],
-            "homeEra": ["Early 21st century"]
+            "homeEra": ["Early 21st century"], 
+            "quote": "I am the Bad Wolf! I create myself…"
         },
         {
             "id": "2", 
@@ -53,7 +54,8 @@
             "firstAppearance": " \"Rose\" (2005)",
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Ninth", "Tenth" ],
-            "homeEra": ["Early 21st century"]
+            "homeEra": ["Early 21st century"],
+            "quote": ""
         },
         {
             "id": "3", 
@@ -62,7 +64,8 @@
             "firstAppearance": " \"Smith and Jones\" (2007)",
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth", "UNIT", "Torchwood" ],
-            "homeEra": ["Early 21st century"]
+            "homeEra": ["Early 21st century"],
+            "quote": "Oh, she was blonde! Oh, what a surprise!"
         },
         {
             "id": "4", 
@@ -71,7 +74,8 @@
             "firstAppearance": " \"Doomsday\" (2006)",
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth"],
-            "homeEra": ["Early 21st century"]
+            "homeEra": ["Early 21st century"],
+            "quote": "Not the whole town…just save someone!"
         },
         {
             "id": "5", 
@@ -80,7 +84,8 @@
             "firstAppearance": " \"The Empty Child\" (2005)",
             "lastAppearance": " \"Revolution of the Daleks\" (2021)", 
             "affiliation": ["Ninth", "Tenth", "Thirteenth", "Time Agency", "Torchwood Institute"],
-            "homeEra": ["51st century (original)", "21st century (current)"]
+            "homeEra": ["51st century (original)", "21st century (current)"],
+            "quote": ""
         },
         {
             "id": "6", 
@@ -89,7 +94,8 @@
             "firstAppearance": " \"The Eleventh Hour\" (2010)",
             "lastAppearance": " \"The Time of the Doctor\" (2013)", 
             "affiliation": ["Eleventh"],
-            "homeEra": ["21st century"]
+            "homeEra": ["21st century"],
+            "quote": "Dear Santa, thank you for the dolls and pencils and the fish…"
         },
         {
             "id": "7", 
@@ -98,7 +104,8 @@
             "firstAppearance": " \"The Eleventh Hour\" (2010)",
             "lastAppearance": " \"The Angels Take Manhattan\" (2012)", 
             "affiliation": ["Eleventh"],
-            "homeEra": ["21st century"]
+            "homeEra": ["21st century"],
+            "quote": ""
         },
         {
             "id": "8", 
@@ -107,7 +114,8 @@
             "firstAppearance": " \"Silence in the Library\" (2008)",
             "lastAppearance": " \"The Husbands of River Song\" (2015)", 
             "affiliation": ["Tenth", "Eleventh", "Twelfth"],
-            "homeEra": ["21st century"]
+            "homeEra": ["21st century"],
+            "quote": ""
         },
         {
             "id": "9", 
@@ -116,7 +124,8 @@
             "firstAppearance": " \"Asylum of the Daleks\" (2012)",
             "lastAppearance": " \"Twice Upon A Time\" (2017)", 
             "affiliation": ["Eleventh", "Twelfth"],
-            "homeEra": ["21st century"]
+            "homeEra": ["21st century"],
+            "quote": "“ Run you clever boy...and remember."
         }
 
     ]
