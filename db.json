@@ -65,7 +65,7 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth", "UNIT", "Torchwood" ],
             "homeEra": ["Early 21st century"],
-            "quote": "Oh, she was blonde! Oh, what a surprise!"
+            "quote": "Doctor? It's Martha, and I'm bringing you back to earth."
         },
         {
             "id": "4", 
@@ -75,7 +75,7 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth"],
             "homeEra": ["Early 21st century"],
-            "quote": "Not the whole town…just save someone!"
+            "quote": "Not the whole town. Just save someone!"
         },
         {
             "id": "5", 
@@ -115,7 +115,7 @@
             "lastAppearance": " \"The Husbands of River Song\" (2015)", 
             "affiliation": ["Tenth", "Eleventh", "Twelfth"],
             "homeEra": ["21st century"],
-            "quote": ""
+            "quote": "Spoilers!!"
         },
         {
             "id": "9", 
@@ -125,7 +125,7 @@
             "lastAppearance": " \"Twice Upon A Time\" (2017)", 
             "affiliation": ["Eleventh", "Twelfth"],
             "homeEra": ["21st century"],
-            "quote": "“ Run you clever boy...and remember."
+            "quote": "Run you clever boy...and remember."
         }
 
     ]
