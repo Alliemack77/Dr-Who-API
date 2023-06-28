@@ -45,7 +45,8 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Ninth", "Tenth" ],
             "homeEra": ["Early 21st century"], 
-            "quote": "I am the Bad Wolf! I create myself…"
+            "quote": "I am the Bad Wolf! I create myself…",
+            "imageURL": "https://i.postimg.cc/d0yWzXK4/claratardis.jpg"
         },
         {
             "id": "2", 
@@ -96,7 +97,7 @@
             "affiliation": ["Eleventh"],
             "homeEra": ["21st century"],
             "quote": "Dear Santa, thank you for the dolls and pencils and the fish…",
-            "imageURL": "https://i.postimg.cc/J7vLJwzz/amy.png"
+            "imageURL": "https://i.postimg.cc/MTM8rx6H/amy-square.jpg"
         },
         {
             "id": "7", 
