@@ -46,7 +46,7 @@
             "affiliation": ["Ninth", "Tenth" ],
             "homeEra": ["Early 21st century"], 
             "quote": "I am the Bad Wolf! I create myself…",
-            "imageURL": "https://i.postimg.cc/d0yWzXK4/claratardis.jpg"
+            "imageURL": "https://i.postimg.cc/L8KhtCVj/rose-square.jpg"
         },
         {
             "id": "2", 
@@ -56,7 +56,8 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Ninth", "Tenth" ],
             "homeEra": ["Early 21st century"],
-            "quote": "Oh my god. I'm the tin dog."
+            "quote": "Oh my god. I'm the tin dog.",
+            "imageURL": "https://i.postimg.cc/RFDZNXF6/Mickey-square.jpg"
         },
         {
             "id": "3", 
@@ -66,7 +67,8 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth", "UNIT", "Torchwood" ],
             "homeEra": ["Early 21st century"],
-            "quote": "Doctor? It's Martha, and I'm bringing you back to earth."
+            "quote": "Doctor? It's Martha, and I'm bringing you back to earth.",
+            "imageURL": "https://i.postimg.cc/wxnDrkVj/Martha-square.jpg"
         },
         {
             "id": "4", 
@@ -76,7 +78,8 @@
             "lastAppearance": " \"The End of Time\" (2010)", 
             "affiliation": ["Tenth"],
             "homeEra": ["Early 21st century"],
-            "quote": "Not the whole town. Just save someone!"
+            "quote": "Not the whole town. Just save someone!",
+            "imageURL": "https://i.postimg.cc/sg4SvCRM/donna-square.jpg"
         },
         {
             "id": "5", 
@@ -86,7 +89,8 @@
             "lastAppearance": " \"Revolution of the Daleks\" (2021)", 
             "affiliation": ["Ninth", "Tenth", "Thirteenth", "Time Agency", "Torchwood Institute"],
             "homeEra": ["51st century (original)", "21st century (current)"],
-            "quote": "But bad means good, isn't that right?"
+            "quote": "But bad means good, isn't that right?",
+            "imageURL": "https://i.postimg.cc/VvPLq5qm/Captain-Jack-square.jpg"
         },
         {
             "id": "6", 
@@ -107,7 +111,8 @@
             "lastAppearance": " \"The Angels Take Manhattan\" (2012)", 
             "affiliation": ["Eleventh"],
             "homeEra": ["21st century"],
-            "quote": "...Right. Putting Hitler in the cupboard. Cupboard, Hitler. Hitler, cupboard, c'mon"
+            "quote": "...Right. Putting Hitler in the cupboard. Cupboard, Hitler. Hitler, cupboard, c'mon",
+            "imageURL": "https://i.postimg.cc/2jgXxhL4/rory-square.jpg"
         },
         {
             "id": "8", 
@@ -117,7 +122,8 @@
             "lastAppearance": " \"The Husbands of River Song\" (2015)", 
             "affiliation": ["Tenth", "Eleventh", "Twelfth"],
             "homeEra": ["21st century"],
-            "quote": "Spoilers!!"
+            "quote": "Spoilers!!",
+            "imageURL": "https://i.postimg.cc/qRRZ1GGG/River-Song-square.jpg"
         },
         {
             "id": "9", 
@@ -128,7 +134,7 @@
             "affiliation": ["Eleventh", "Twelfth"],
             "homeEra": ["21st century"],
             "quote": "Run you clever boy...and remember.",
-            "imageURL": "https://i.postimg.cc/d0yWzXK4/claratardis.jpg"
+            "imageURL": "https://i.postimg.cc/BbDWCgqV/clara-console-square.jpg"
         }
 
     ]
